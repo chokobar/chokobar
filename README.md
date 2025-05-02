@@ -1,16 +1,28 @@
-## Hi there 👋
+안녕하세요! 백엔드 개발자 전정호입니다. 👋
 
-<!--
-**chokobar/chokobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 요즘 하는 일: Java와 Spring Boot로 사이드 프로젝트 및 공부 중
+- 🌱 개발 철학: 다소 시간이 걸리더라도 멈추지 않고 꾸준히 성장하는 개발자
+- 📫 연락처: chokobar89@naver.com
 
-Here are some ideas to get you started:
+## 🧰 사용 기술
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 개발 언어
+- Java
+- JavaScript
+- JSP
+- HTML/CSS
+
+### 🗄️ 데이터베이스
+- MySQL
+- PostgreSQL
+- Oracle
+
+### 🧩 프레임워크 & 템플릿
+- Spring Boot
+- 전자정부프레임워크 (eGovFrame)
+- Thymeleaf
+
+### 🛠️ 개발 도구
+- IntelliJ IDEA
+- Git
+- SVN
