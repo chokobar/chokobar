@@ -10,7 +10,6 @@
 - Java
 - JavaScript
 - JSP
-- HTML/CSS
 
 ### 🗄️ 데이터베이스
 - MySQL
@@ -21,6 +20,7 @@
 - Spring Boot
 - 전자정부프레임워크 (eGovFrame)
 - Thymeleaf
+- JSP
 
 ### 🛠️ 개발 도구
 - IntelliJ IDEA
