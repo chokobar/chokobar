@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot-&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot-&logoColor=white">
 
 ### 🧩 프레임워크 & 템플릿
 - Spring Boot
