@@ -2,8 +2,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chokobar&theme=radical&date_format=M%20j[, %Y])
 
----
-
 ### 🧩 기술스택
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" /> <img src="https://img.shields.io/badge/eGovFrame-%230D47A1.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/JSP-%23E53935.svg?style=for-the-badge" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
